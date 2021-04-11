@@ -1,0 +1,2 @@
+INFO     root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="ff0edf16d15fdf385b344a6ba2e3c16c")>
+INFO     root:base.py:16 正在查找元素：('css selector', "[placeholder='用户名']")

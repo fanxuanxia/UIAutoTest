@@ -1,0 +1,83 @@
+2021-03-30 12:45:01,929 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="ff7bd38ecc5d740a7b8a62c4c3302184")>
+2021-03-30 12:45:01,934 INFO [page_mis_login.py(page_mis_login_success:33)] - 正在调用自后台管理系统自动登录依赖方法，登录的用户名为：testid，验证码为:testpwd123
+2021-03-30 12:45:02,943 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='用户名']")
+2021-03-30 12:45:02,970 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 12:45:03,037 INFO [base.py(base_input:27)] - 正在输入:testid到:('css selector', "[placeholder='用户名']")
+2021-03-30 12:45:04,146 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='密码']")
+2021-03-30 12:45:04,180 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 12:45:04,245 INFO [base.py(base_input:27)] - 正在输入:testpwd123到:('css selector', "[placeholder='密码']")
+2021-03-30 12:45:05,363 INFO [base.py(base_click:32)] - 正在点击('css selector', '#inp1')元素
+2021-03-30 12:45:05,363 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '#inp1')
+2021-03-30 12:45:05,506 INFO [base.py(__init__:8)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="ff7bd38ecc5d740a7b8a62c4c3302184")>
+2021-03-30 12:45:06,516 INFO [base.py(base_click:32)] - 正在点击('xpath', "//*[text()='信息管理']/.")元素
+2021-03-30 12:45:06,517 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text()='信息管理']/.")
+2021-03-30 12:45:07,861 INFO [base.py(base_click:32)] - 正在点击('xpath', "//*[text()='内容审核']/.")元素
+2021-03-30 12:45:07,864 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text()='内容审核']/.")
+2021-03-30 12:45:08,277 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='请输入: 文章名称']")
+2021-03-30 12:45:08,303 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 12:45:08,362 INFO [base.py(base_input:27)] - 正在输入:test1002-1到:('css selector', "[placeholder='请输入: 文章名称']")
+2021-03-30 12:45:08,506 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='请输入: 频道']")
+2021-03-30 12:45:08,532 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 12:45:08,600 INFO [base.py(base_input:27)] - 正在输入:数据库到:('css selector', "[placeholder='请输入: 频道']")
+2021-03-30 12:45:08,767 INFO [base.py(base_click:32)] - 正在点击('css selector', "[placeholder='请选择状态']")元素
+2021-03-30 12:45:08,769 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='请选择状态']")
+2021-03-30 12:45:10,020 INFO [base.py(base_click:32)] - 正在点击('xpath', "//*[text()='待审核']")元素
+2021-03-30 12:45:10,020 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text()='待审核']")
+2021-03-30 12:45:10,180 INFO [base.py(base_click:32)] - 正在点击('css selector', '.find')元素
+2021-03-30 12:45:10,180 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '.find')
+2021-03-30 12:45:12,311 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '.cell>span')
+2021-03-30 12:45:12,350 INFO [base.py(base_get_text:37)] - 正在获取:('css selector', '.cell>span')的文本，获取的文本值：1370212190618910720
+2021-03-30 12:45:12,350 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '.cell>span')
+2021-03-30 12:45:12,381 INFO [base.py(base_click:32)] - 正在点击('xpath', "//*[text() = '通过']/..")元素
+2021-03-30 12:45:12,381 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text() = '通过']/..")
+2021-03-30 12:45:13,521 INFO [base.py(base_click:32)] - 正在点击('css selector', '.el-button--primary')元素
+2021-03-30 12:45:13,521 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '.el-button--primary')
+2021-03-30 12:45:16,668 INFO [base.py(base_click:32)] - 正在点击('css selector', "[placeholder='请选择状态']")元素
+2021-03-30 12:45:16,669 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', "[placeholder='请选择状态']")
+2021-03-30 12:45:17,743 INFO [base.py(base_click:32)] - 正在点击('xpath', "//*[text()='审核通过']")元素
+2021-03-30 12:45:17,744 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text()='审核通过']")
+2021-03-30 12:45:18,835 INFO [base.py(base_click:32)] - 正在点击('css selector', '.find')元素
+2021-03-30 12:45:18,836 INFO [base.py(base_find:16)] - 正在查找元素：('css selector', '.find')
+2021-03-30 12:45:21,950 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[text()='1370212190618910720']")
+2021-03-30 13:04:16,478 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:04:16,478 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:05:08,538 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:05:08,538 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:07:02,763 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:07:02,763 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:08:30,722 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:08:30,722 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:09:21,619 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:09:21,619 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:14:29,106 INFO [base.py(__init__:8)] - 正在初始化driver:None
+2021-03-30 13:14:29,107 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:17:18,694 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="f6ff532b-a178-4559-acfa-381adcedfae9")>
+2021-03-30 13:17:18,694 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:18:16,671 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="f8ccbf0a-79ed-4c8a-9681-4954b3851b85")>
+2021-03-30 13:18:16,674 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:18:20,620 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:18:20,652 INFO [base.py(base_input:27)] - 正在输入:13812345678到:('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:22:36,677 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="e5eb0474-ae79-4baf-aad9-c2cdf872c2af")>
+2021-03-30 13:22:37,692 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:22:40,673 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:22:40,690 INFO [base.py(base_input:27)] - 正在输入:13812345678到:('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:24:04,030 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="1a145073-b63c-4b0d-88df-39d0b7502664")>
+2021-03-30 13:24:07,036 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:24:08,020 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:24:08,036 INFO [base.py(base_input:27)] - 正在输入:13812345678到:('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:26:39,222 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="b10ba1a6-58e5-4cfd-a583-0faf1d550409")>
+2021-03-30 13:26:42,238 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:26:43,211 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:26:43,226 INFO [base.py(base_input:27)] - 正在输入:13812345678到:('xpath', "//*[@class ='android.widget.EditText' and @index='1']")
+2021-03-30 13:29:07,317 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="4264f4f2-2771-4424-b9ea-49bc4a15b9aa")>
+2021-03-30 13:29:10,327 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='2']")
+2021-03-30 13:29:11,291 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:29:11,307 INFO [base.py(base_input:27)] - 正在输入:246810到:('xpath', "//*[@class ='android.widget.EditText' and @index='2']")
+2021-03-30 13:34:22,216 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="2faa2cf2-637e-46a3-8205-340a1fb8e385")>
+2021-03-30 13:34:25,230 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='2']")
+2021-03-30 13:34:26,451 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:34:26,482 INFO [base.py(base_input:27)] - 正在输入:246810 到:('xpath', "//*[@class ='android.widget.EditText' and @index='2']")
+2021-03-30 13:35:47,067 INFO [base.py(__init__:8)] - 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="6c5dc6fd-67b4-4828-8a78-05d6f834ec10")>
+2021-03-30 13:35:50,083 INFO [base.py(base_find:16)] - 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='2']")
+2021-03-30 13:35:51,043 INFO [base.py(base_input:24)] - 正在清空
+2021-03-30 13:35:51,058 INFO [base.py(base_input:27)] - 正在输入:246810 到:('xpath', "//*[@class ='android.widget.EditText' and @index='2']")

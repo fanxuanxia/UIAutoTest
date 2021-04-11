@@ -1,0 +1,16 @@
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="a3479967d13d0a7caa8372f5ec2a634f")>
+[32mINFO    [0m root:page_mp_login.py:25 正在调用自媒体业务方法，登录的用户名为：13812345678，验证码为:246811
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:13812345678到:('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:246811到:('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '.el-button--primary')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.user-name')
+[32mINFO    [0m root:base.py:37 正在获取:('css selector', '.user-name')的文本，获取的文本值：13812345678
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.user-name')
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.user-name')
+[32mINFO    [0m root:base.py:37 正在获取:('css selector', '.user-name')的文本，获取的文本值：13812345678
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.user-name')

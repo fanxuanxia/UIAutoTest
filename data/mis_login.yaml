@@ -1,0 +1,4 @@
+mis_login001:
+  username : "testid"
+  psw : "testpwd123"
+  except : "管理员"

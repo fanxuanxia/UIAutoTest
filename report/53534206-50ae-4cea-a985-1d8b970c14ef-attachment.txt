@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="3627d5a3a93a2f2e2c85333c562a9526")>
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='用户名']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:testid到:('css selector', "[placeholder='用户名']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='密码']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:testpwd123到:('css selector', "[placeholder='密码']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '#inp1')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '#inp1')
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[contains(text(),'管理员')]")
+[32mINFO    [0m root:base.py:37 正在获取:('xpath', "//*[contains(text(),'管理员')]")的文本，获取的文本值：欢迎 管理员
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[contains(text(),'管理员')]")

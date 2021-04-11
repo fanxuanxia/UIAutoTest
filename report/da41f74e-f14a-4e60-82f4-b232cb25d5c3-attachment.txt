@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base.py:8 正在初始化driver:<appium.webdriver.webdriver.WebDriver (session="f6ff532b-a178-4559-acfa-381adcedfae9")>
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[@class ='android.widget.EditText' and @index='1']")

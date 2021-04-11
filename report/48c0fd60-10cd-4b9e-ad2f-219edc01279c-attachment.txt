@@ -1,0 +1,31 @@
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="78164d91979fa0a5eca1b73081b70bfc")>
+[32mINFO    [0m root:page_mp_login.py:31 正在调用自媒体业务方法，登录的用户名为：13912345678，验证码为:246811
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:13912345678到:('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:246811到:('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '.el-button--primary')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="78164d91979fa0a5eca1b73081b70bfc")>
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//span[text()='内容管理']/..")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//span[text()='内容管理']/..")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[contains(text(),'发布文章')]")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[contains(text(),'发布文章')]")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='文章名称']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:test到:('css selector', "[placeholder='文章名称']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '#publishTinymce_ifr')
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '#tinymce')
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:hahaha到:('css selector', '#tinymce')
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text() = '自动']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text() = '自动']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', "[placeholder='请选择']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请选择']")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text()='数据库']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text()='数据库']")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text() = '发表']/..")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text() = '发表']/..")
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[contains(text(),'新增文章成功')]")

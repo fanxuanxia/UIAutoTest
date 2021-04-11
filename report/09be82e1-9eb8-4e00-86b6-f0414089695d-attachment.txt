@@ -1,0 +1,40 @@
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="08d20315f5a7448f1a8a9a55378fefcf")>
+[32mINFO    [0m root:page_mis_login.py:33 正在调用自后台管理系统自动登录依赖方法，登录的用户名为：testid，验证码为:testpwd123
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='用户名']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:testid到:('css selector', "[placeholder='用户名']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='密码']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:testpwd123到:('css selector', "[placeholder='密码']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '#inp1')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '#inp1')
+[32mINFO    [0m root:base.py:8 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="08d20315f5a7448f1a8a9a55378fefcf")>
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text()='信息管理']/.")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text()='信息管理']/.")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text()='内容审核']/.")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text()='内容审核']/.")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请输入: 文章名称']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:test0004到:('css selector', "[placeholder='请输入: 文章名称']")
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请输入: 频道']")
+[32mINFO    [0m root:base.py:24 正在清空
+[32mINFO    [0m root:base.py:27 正在输入:数据库到:('css selector', "[placeholder='请输入: 频道']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', "[placeholder='请选择状态']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请选择状态']")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text()='待审核']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text()='待审核']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '.find')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.find')
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.cell>span')
+[32mINFO    [0m root:base.py:37 正在获取:('css selector', '.cell>span')的文本，获取的文本值：1122366570257973248
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.cell>span')
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text() = '通过']/..")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text() = '通过']/..")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '.el-button--primary')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:32 正在点击('css selector', "[placeholder='请选择状态']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', "[placeholder='请选择状态']")
+[32mINFO    [0m root:base.py:32 正在点击('xpath', "//*[text()='审核通过']")元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('xpath', "//*[text()='审核通过']")
+[32mINFO    [0m root:base.py:32 正在点击('css selector', '.find')元素
+[32mINFO    [0m root:base.py:16 正在查找元素：('css selector', '.find')
